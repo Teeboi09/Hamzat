@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+    background: url(/Joseph.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;   
+    min-height: 100vh;
+    z-index: 100000;
+    background-position: center !important;
+    padding: 2rem;
+}
+.sub-div1{
+    width: 10rem;
+    height: 15rem;
+}
